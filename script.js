@@ -1,5 +1,5 @@
 let body = document.body;
-body.style.backgroundImage = "url(img/09a9b90d45160d6d0ed5494f86f3e982.jpg)";
+body.style.backgroundImage = "url(img/57c465579d0ca97b1154e2161ac37a91.jpg)";
 body.style.backgroundSize = "cover";
 body.style.backgroundPosition = "center";
 body.style.backgroundRepeat = "no-repeat";
